@@ -13,7 +13,7 @@ xp: 100
 skills: 1
 ```
 
-Import the un_comtrade_data.csv using read_csv frim the readr library. The library has been pre-loaded into your workspace.
+Import the `un_comtrade_data.csv` using read_csv frim the readr library. The library has been pre-loaded into your workspace.
 
 `@instructions`
 Use read_csv from reader to import the file
