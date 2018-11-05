@@ -1,6 +1,6 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'Importing Data'
+description: 'Import data from the UN Comtrade database.'
 ---
 
 ## Example coding exercise
