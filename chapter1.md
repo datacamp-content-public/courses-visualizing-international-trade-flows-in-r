@@ -3,7 +3,7 @@ title: 'Importing Data'
 description: 'Import data from the UN Comtrade database.'
 ---
 
-## Example coding exercise
+## Import Data
 
 ```yaml
 type: NormalExercise
@@ -13,7 +13,7 @@ xp: 100
 skills: 1
 ```
 
-This is an example exercise.
+Import the ___un_comtrade_data.csv_
 
 `@instructions`
 
@@ -33,7 +33,7 @@ This is an example exercise.
 
 `@solution`
 ```{r}
-
+read_csv(file = "un_comtrade_data.csv"
 ```
 
 `@sct`
