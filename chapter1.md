@@ -13,10 +13,10 @@ xp: 100
 skills: 1
 ```
 
-Import the ___un_comtrade_data.csv_
+Import the un_comtrade_data.csv using read_csv frim the readr library.
 
 `@instructions`
-
+Use read_csv from reader to import the file
 
 `@hint`
 
@@ -33,7 +33,8 @@ Import the ___un_comtrade_data.csv_
 
 `@solution`
 ```{r}
-read_csv(file = "un_comtrade_data.csv"
+library(readr)
+read_csv(file = "un_comtrade_data.csv")
 ```
 
 `@sct`
